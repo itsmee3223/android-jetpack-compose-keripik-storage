@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542978106455",
+    "firebase_url": "https://keripik-storage-23e0c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "keripik-storage-23e0c",
+    "storage_bucket": "keripik-storage-23e0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542978106455:android:8683723300ad88c0d2af12",
+        "android_client_info": {
+          "package_name": "com.ramandaaa.keripik_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542978106455-k49i6vqdph3kcateo5e4qbcp0c9ssaid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramandaaa.keripik_storage",
+            "certificate_hash": "b1b0402eed4063a470c4b8aee48d890dd4a2d20e"
+          }
+        },
+        {
+          "client_id": "542978106455-3kprllocvmg4rr50u8r44fqrntrdrhuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBrMZfvgPN-SJK8TcD28ID8XrL6vw7Xz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542978106455-3kprllocvmg4rr50u8r44fqrntrdrhuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
