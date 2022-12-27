@@ -1,6 +1,6 @@
 # Android Jetpack Compose Keripik Storage
 
-## App Screanshot
+## App Screenshot
 
 <img src="https://res.cloudinary.com/dniq91ewn/image/upload/v1672116257/Github%20Android/login_isi_lddoab.png" alt="drawing" width="200"/> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://res.cloudinary.com/dniq91ewn/image/upload/v1672116249/Github%20Android/register_isi_dxodvt.png" alt="drawing" width="200"/> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://res.cloudinary.com/dniq91ewn/image/upload/v1672116230/Github%20Android/home_update_auqiu8.png" alt="drawing" width="200"/>
 
